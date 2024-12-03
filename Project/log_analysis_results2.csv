@@ -1,0 +1,19 @@
+Requests per IP
+IP Address,Request Count
+192.168.1.100 ,198
+10.0.0.2 ,195
+198.51.100.23 ,199
+192.168.1.1 ,203
+203.0.113.5 ,204
+"
+Most Accessed Endpoint"
+Endpoint,Access Count
+/about,135
+"
+Suspicious Activity"
+IP Address,Failed Login Count
+192.168.1.100 ,46
+10.0.0.2 ,51
+198.51.100.23 ,47
+203.0.113.5 ,54
+192.168.1.1 ,41
